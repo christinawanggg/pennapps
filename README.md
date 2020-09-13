@@ -1,6 +1,6 @@
 # air.ly - PennApps 2020 
 
-**2020 PennApps Wharton Risk Management Hack for Resilience Route First-Place Winner**
+**🥇 First-Place Winner, 2020 PennApps Wharton Risk Management Hack for Resilience Route**
 
 **Team:** Christina Wang, Ami Nachiappan, Emma Chiao, Cynthia Gong
 
