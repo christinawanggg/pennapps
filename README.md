@@ -2,7 +2,7 @@
 
 **🥇 First-Place Winner, 2020 PennApps Wharton Risk Management Hack for Resilience Route**
 
-**Team:** Christina Wang, Ami Nachiappan, Emma Chiao, Cynthia Gong
+**Team:** Christina Wang, Ami Nachiappan, Cynthia Gong, Emma Chiao
 
 We are your one-stop shop to finding safe outdoor retreats during wildfires in real-time.
 
